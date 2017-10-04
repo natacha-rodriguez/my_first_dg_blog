@@ -25,7 +25,7 @@ SECRET_KEY = 'zp-e#_zq_sb$i+3rni%n2s+)gj4)!%%*!(h_ue%y1@^hgbk_*)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['natacharodriguez.pythonanywhere.com']
+ALLOWED_HOSTS = ['natacharodriguez.pythonanywhere.com', 'localhost']
 
 
 # Application definition
